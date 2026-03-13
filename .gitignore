@@ -1,0 +1,15 @@
+# Build output directories
+bin/
+obj/
+
+# Precompiled headers
+*.h.gch/
+wx_pch.h.gch/
+
+# Code::Blocks project files (optional - keep .cbp but ignore temp files)
+*.depend
+*.layout
+
+# Windows
+Thumbs.db
+desktop.ini
